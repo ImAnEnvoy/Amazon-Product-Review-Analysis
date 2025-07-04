@@ -58,6 +58,21 @@ The task was to Use pivot tables and calculated columns where necessary to answe
 - conditional function
 - aggregation function
 
+## Screen shots
+
+### Dashboard
+<img width="836" alt="1" src="https://github.com/user-attachments/assets/8efbec81-bb84-48f1-b234-142da5725ca0" />
+
+### Cleaned table wiew
+<img width="954" alt="3" src="https://github.com/user-attachments/assets/ee39eeed-9616-431d-a4fe-aae35e3d1db4" />
+
+
+### Pivote tables
+<img width="933" alt="2" src="https://github.com/user-attachments/assets/27382d03-0593-48e9-8e3f-02ce395e55d3" />
+
+### Amazon Product Review raw data file
+[DSA-FinalProject-Amazon.xlsx](https://github.com/user-attachments/files/21068400/DSA-FinalProject-Amazon.xlsx)
+
 ## About Me
 ###Ayoola Ezekiel O.
 Higher National Diploma (HND) in Computer Science from the Federal Polytechnic Bauchi, Nigeria. I am passionate about learning, working and drawing actionable insights from data. My data analysis journey is also blended with graphics designs, which allows me to create dashboard visual for reporting and presentation.
