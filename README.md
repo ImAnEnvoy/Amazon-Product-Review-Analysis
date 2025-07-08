@@ -61,7 +61,8 @@ The task was to Use pivot tables and calculated columns where necessary to answe
 ## Screen shots
 
 ### Dashboard
-<img width="836" alt="1" src="https://github.com/user-attachments/assets/8efbec81-bb84-48f1-b234-142da5725ca0" />
+<img width="944" alt="screenpi" src="https://github.com/user-attachments/assets/baf1aad9-ef97-4f16-839d-c50f7ec342dc" />
+
 
 ### Cleaned table wiew
 <img width="954" alt="3" src="https://github.com/user-attachments/assets/ee39eeed-9616-431d-a4fe-aae35e3d1db4" />
